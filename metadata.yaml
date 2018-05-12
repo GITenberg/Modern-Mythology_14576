@@ -1,0 +1,40 @@
+_repo: Modern-Mythology_14576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Go to top; Introduction; Regent Mythology; The Story of Daphne; The Question
+  of Allies; Mannhardt; Philology and Demeter Erinnys; Totemism; The Validity of Anthropological
+  Evidence; The Philological Method in Anthropology; Criticism of Fetishism; {120a};
+  {120b}; {118d}; {118b}; {118c}; {118a}; {117b}; {117a}; {116}; {114}; {115}; {111a};
+  {111b}; {110}; {109}; {106b}; {106a}; {103}; {101b}; {101a}; {100}; {97c};  {97a};
+  {97b}; {93a}; {93b}; {93c}; ; {89b}; {89a}; {88b}; {88a};; {85a}; {85b}; {85c};
+  {84d}; {84c}; {83a}; {83b}; {84a}; {84b}; {82b}; {82a}; {81a}
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14576'
+  lccn: '12034979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology'
+tableOfContents: Introduction -- Recent mythology -- The story of Daphne -- The question
+  of allies -- Mannhardt -- Philology and Demeter Erinnys -- Totemism -- The validity
+  of anthropological evidence -- The philological method in anthropology -- Criticism
+  of fetishism -- The riddle theory -- Artemis -- The fire-walk -- The origin of death
+  -- Conclusion.
+title: Modern Mythology
+url: http://www.gutenberg.org/ebooks/14576
