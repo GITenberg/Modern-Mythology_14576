@@ -19,6 +19,8 @@ description: Go to top; Introduction; Regent Mythology; The Story of Daphne; The
   {111b}; {110}; {109}; {106b}; {106a}; {103}; {101b}; {101a}; {100}; {97c};  {97a};
   {97b}; {93a}; {93b}; {93c}; ; {89b}; {89a}; {88b}; {88a};; {85a}; {85b}; {85c};
   {84d}; {84c}; {83a}; {83b}; {84a}; {84b}; {82b}; {82a}; {81a}
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14576#Modern-Mythology
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
 identifiers:
